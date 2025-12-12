@@ -1,5 +1,5 @@
 Hier ist eine kurze Erklärung zu den Files:
-Folgende Files, sind Modelle, deren Ergebnisse mit Hilfe des Datensatzes "WORKDATA.csv" reproduziert werden kann:
+Folgende Files, sind Modelle, deren Ergebnisse mit Hilfe des Datensatzes "WORKDATA.csv" reproduziert werden können:
 - ARIMA neu
 - Benchmark
 - GBM
